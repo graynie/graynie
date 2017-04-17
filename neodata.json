@@ -1,0 +1,223 @@
+{
+	"capitales": [{
+		"nombre": "Altador",
+		"provinvia": "Altador",
+		"Abbreviation": "AL",
+		"Captain": "Trapper Remis",
+		"Participation": 10,
+		"Wins": "---" ,
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/altador_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/AltadorShield.png" ,
+		"longitud": 343,
+		"latitud": 430
+	}, {
+		"nombre": "Brigthvale",
+		"provincia": "Brigthvale",
+		"Abbreviation": "BV",
+		"Captain": "Montecito",
+		"Participation": 9,
+		"Wins":"2, Altador Cup(I,IX)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/brightvale_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/BrightvaleShield.png",
+		"longitud": 655,
+		"Mlatitud": 376
+	}, {
+		"nombre": "Darigan Citadel",
+		"provincia": "Darigan Citadel",
+		"Abbreviation": "DC",
+		"Captain": "Layton Vickles",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(II)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/darigancitadel_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/DariganCitadelShields.png",
+		"longitud": 727,
+		"latitud": 301
+	}, {
+		"nombre": "Faerieland",
+		"provincia": "Faerieland",
+		"Abbreviation": "FL",
+		"Captain": "Kakoni Worrill",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/faerieland_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/FaerilandShield.png",
+		"longitud": 610,
+		"latitud": 410
+	}, {
+		"nombre": "Haunted Woods",
+		"provincia": "Haunted Woods",
+		"Abbreviation": "HW",
+		"Captain": "Krell Vitor",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/hauntedwoods_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/HauntedWoodsShield.png",
+		"longitud": 493,
+		"latitud": 399
+	}, {
+		"nombre": "Kiko Lake",
+		"provincia": "Kiko Lake",
+		"Abbreviation": "KL",
+		"Captain": "Poke Cellers",
+		"Participation": 9,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/kikolake_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/KikoShield.png",
+		"longitud": 558,
+		"latitud": 324
+	}, {
+		"nombre": "Krawk Island",
+		"provincia": "Krawk Island",
+		"Abbreviation": "KI",
+		"Captain": "Garven Hale",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(IV)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/krawkisland_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/KrawkIslandShields.png",
+		"longitud": 753,
+		"latitud": 532
+	}, {
+		"nombre": "Kreludor",
+		"provincia": "Kreludor",
+		"Abbreviation": "KD",
+		"Captain": "Derlyn Fonnet",
+		"Participation": 9,
+		"Wins": "1, Altador Cup(VII)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/kreludor_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/KreludorShield.png",
+		"longitud": 147,
+		"latitud": 208   
+	}, {
+		"nombre": "Lost Desert",
+		"provincia": "Lost Desert",
+		"Abbreviation": "LD",
+		"Captain": "Leera Heggle",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(V)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/lostdesert_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/LostDessertShield.png",
+		"longitud": 538,
+		"latitud": 482
+	}, {
+		"nombre": "Maraqua",
+		"provincia": "Maraqua",
+		"Abbreviation": "MQ",
+		"Captain": "Elon -El Agujero negro- Hughlis",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/maraqua_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MaraquaShields.png",
+		"longitud": 842,
+		"latitud": 299
+	}, {
+		"nombre": "Meridell",
+		"provincia": "Meridell",
+		"Abbreviation": "MD",
+		"Captain": "Wizard Windelle",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/meridell_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MeridellShield.png",
+		"longitud": 693,
+		"Mlatitud": 331
+	}, {
+		"nombre": "Moltara",
+		"provincia": "Moltara",
+		"Abbreviation": "MT",
+		"Captain": "Aldric Beign",
+		"Participation": 6,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/moltara_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MoltaraShield.png",
+		"longitud": 165,
+		"latitud": 380
+	}, {
+		"nombre": "Mystery Island",
+		"provincia": "Mystery Island",
+		"Abbreviation": "MI",
+		"Captain": "Volgoth",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/mysteryisland_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MisteryIslandShields.png",
+		"longitud": 837,
+		"latitud": 460
+	}, {
+		"nombre": "Roo Island",
+		"provincia": "Roo Island",
+		"Abbreviation": "RI",
+		"Captain": "Lilo Blumario",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(III)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/rooisland_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/RooIslandShields.png",
+		"longitud": 633,
+		"latitud": 281
+	}, {
+		"nombre": "Shenkuu",
+		"provincia": "Shenkuu",
+		"Abbreviation": "SK",
+		"Captain": "Mirsha Grelinek",
+		"Participation": 9,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/shenkuu_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/ShenkuuShield.png",
+		"longitud": 373,
+		"latitud": 283
+	}, {
+		"nombre": "Terror Mountain",
+		"provincia": "Terror Mountain",
+		"Abbreviation": "TM",
+		"Captain": "Prytariel",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/terrormountain_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/TerrorMountainShields.png",
+		"longitud": 494,
+		"latitud": 194
+	}, {
+		"nombre": "Tyrannia",
+		"provincia": "Tyrannia",
+		"Abbreviation": "TY",
+		"Captain": "Loryche",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(VIII)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/tyrannia_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/TyranniaShield.png",
+		"longitud": 701,
+		"latitud": 218
+	}, {
+		"nombre": "Virtupets",
+		"provincia": "Virtupets Space Station",
+		"Abbreviation": "VP",
+		"Captain": "Keetra Deile",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(VI)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/virtupets_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/VirtupetsShield.png",
+		"longitud": 859,
+		"latitud": 224
+}, {
+		"nombre": "Mapa Del Mundo De Neopia",
+		"provincia": "Neopets.com",
+		"Abbreviation": "",
+		"Captain": "",
+		"Participation":,
+		"Wins": "",
+		"TeamImage": "",
+		"ShieldImage": "",
+		"longitud": ,
+		"latitud": 
+}, {
+		"nombre": "Compass",
+		"provincia": "Compass",
+		"Abbreviation": "",
+		"Captain": "",
+		"Participation": ,
+		"Wins": "1",
+		"TeamImage": "",
+		"ShieldImage": "",
+		"longitud": 701,
+		"latitud": 218
+	}]
+}
