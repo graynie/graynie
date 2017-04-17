@@ -1,0 +1,201 @@
+{
+	"Teams": [{
+		"Team": "Altador",
+		"Location": "Altador",
+		"Abbreviation": "AL",
+		"Captain": "Trapper Remis",
+		"Participation": 10,
+		"Wins": "---" ,
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/altador_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/AltadorShield.png" ,
+		"MapaX": 343,
+		"MapaY": 430
+	}, {
+		"Team": "Brigthvale",
+		"Location": "Brigthvale",
+		"Abbreviation": "BV",
+		"Captain": "Montecito",
+		"Participation": 9,
+		"Wins":"2, Altador Cup(I,IX)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/brightvale_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/BrightvaleShield.png",
+		"MapaX": 655,
+		"MapaY": 376
+	}, {
+		"Team": "Darigan Citadel",
+		"Location": "Darigan Citadel",
+		"Abbreviation": "DC",
+		"Captain": "Layton Vickles",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(II)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/darigancitadel_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/DariganCitadelShields.png",
+		"MapaX": 727,
+		"MapaY": 301
+	}, {
+		"Team": "Faerieland",
+		"Location": "Faerieland",
+		"Abbreviation": "FL",
+		"Captain": "Kakoni Worrill",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/faerieland_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/FaerilandShield.png",
+		"MapaX": 610,
+		"MapaY": 410
+	}, {
+		"Team": "Haunted Woods",
+		"Location": "Haunted Woods",
+		"Abbreviation": "HW",
+		"Captain": "Krell Vitor",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/hauntedwoods_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/HauntedWoodsShield.png",
+		"MapaX": 493,
+		"MapaY": 399
+	}, {
+		"Team": "Kiko Lake",
+		"Location": "Kiko Lake",
+		"Abbreviation": "KL",
+		"Captain": "Poke Cellers",
+		"Participation": 9,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/kikolake_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/KikoShield.png",
+		"MapaX": 558,
+		"MapaY": 324
+	}, {
+		"Team": "Krawk Island",
+		"Location": "Krawk Island",
+		"Abbreviation": "KI",
+		"Captain": "Garven Hale",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(IV)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/krawkisland_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/KrawkIslandShields.png",
+		"MapaX": 753,
+		"MapaY": 532
+	}, {
+		"Team": "Kreludor",
+		"Location": "Kreludor",
+		"Abbreviation": "KD",
+		"Captain": "Derlyn Fonnet",
+		"Participation": 9,
+		"Wins": "1, Altador Cup(VII)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/kreludor_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/KreludorShield.png",
+		"MapaX": 147,
+		"MapaY": 208   
+	}, {
+		"Team": "Lost Desert",
+		"Location": "Lost Desert",
+		"Abbreviation": "LD",
+		"Captain": "Leera Heggle",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(V)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/lostdesert_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/LostDessertShield.png",
+		"MapaX": 538,
+		"MapaY": 482
+	}, {
+		"Team": "Maraqua",
+		"Location": "Maraqua",
+		"Abbreviation": "MQ",
+		"Captain": "Elon -El Agujero negro- Hughlis",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/maraqua_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MaraquaShields.png",
+		"MapaX": 842,
+		"MapaY": 299
+	}, {
+		"Team": "Meridell",
+		"Location": "Meridell",
+		"Abbreviation": "MD",
+		"Captain": "Wizard Windelle",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/meridell_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MeridellShield.png",
+		"MapaX": 693,
+		"MapaY": 331
+	}, {
+		"Team": "Moltara",
+		"Location": "Moltara",
+		"Abbreviation": "MT",
+		"Captain": "Aldric Beign",
+		"Participation": 6,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/moltara_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MoltaraShield.png",
+		"MapaX": 165,
+		"MapaY": 380
+	}, {
+		"Team": "Mystery Island",
+		"Location": "Mystery Island",
+		"Abbreviation": "MI",
+		"Captain": "Volgoth",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/mysteryisland_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MisteryIslandShields.png",
+		"MapaX": 837,
+		"MapaY": 460
+	}, {
+		"Team": "Roo Island",
+		"Location": "Roo Island",
+		"Abbreviation": "RI",
+		"Captain": "Lilo Blumario",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(III)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/rooisland_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/RooIslandShields.png",
+		"MapaX": 633,
+		"MapaY": 281
+	}, {
+		"Team": "Shenkuu",
+		"Location": "Shenkuu",
+		"Abbreviation": "SK",
+		"Captain": "Mirsha Grelinek",
+		"Participation": 9,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/shenkuu_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/ShenkuuShield.png",
+		"MapaX": 373,
+		"MapaY": 283
+	}, {
+		"Team": "Terror Mountain",
+		"Location": "Terror Mountain",
+		"Abbreviation": "TM",
+		"Captain": "Prytariel",
+		"Participation": 10,
+		"Wins": "---",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/terrormountain_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/TerrorMountainShields.png",
+		"MapaX": 494,
+		"MapaY": 194
+	}, {
+		"Team": "Tyrannia",
+		"Location": "Tyrannia",
+		"Abbreviation": "TY",
+		"Captain": "Loryche",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(VIII)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/tyrannia_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/TyranniaShield.png",
+		"MapaX": 701,
+		"MapaY": 218
+	}, {
+		"Team": "Virtupets",
+		"Location": "Virtupets Space Station",
+		"Abbreviation": "VP",
+		"Captain": "Keetra Deile",
+		"Participation": 10,
+		"Wins": "1, Altador Cup(VI)",
+		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/virtupets_group.gif",
+		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/VirtupetsShield.png",
+		"MapaX": 859,
+		"MapaY": 224
+	}]
+}
