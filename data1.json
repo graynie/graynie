@@ -8,8 +8,8 @@
 		"Wins": "---" ,
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/altador_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/AltadorShield.png" ,
-		"longtud": 343,
-		"latitud": 430
+		"longtud": 343/1000*width,
+		"latitud": 430/700*height
 	}, {
 		"nombre": "Brigthvale",
 		"provincia": "Brigthvale",
@@ -19,8 +19,8 @@
 		"Wins":"2, Altador Cup(I,IX)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/brightvale_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/BrightvaleShield.png",
-		"longitud": 655,
-		"latitud": 376
+		"longitud": 655/1000*width,
+		"latitud": 376/700*height
 	}, {
 		"nombre": "Darigan Citadel",
 		"provincia": "Darigan Citadel",
@@ -30,8 +30,8 @@
 		"Wins": "1, Altador Cup(II)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/darigancitadel_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/DariganCitadelShields.png",
-		"longitud": 727,
-		"latitud": 301
+		"longitud": 727/1000*width,
+		"latitud": 301/700*height
 	}, {
 		"nombre": "Faerieland",
 		"provincia": "Faerieland",
@@ -41,7 +41,7 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/faerieland_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/FaerilandShield.png",
-		"longitud": 610,
-		"latitud": 410
+		"longitud": 610/1000*width,
+		"latitud": 410/700*height
 	}]
 }
