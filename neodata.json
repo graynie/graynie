@@ -8,8 +8,8 @@
 		"Wins": "---" ,
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/altador_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/AltadorShield.png" ,
-		"longitud": 343,
-		"latitud": 430
+		"longitud": 775,
+		"latitud": 666
 	}, {
 		"nombre": "Brigthvale",
 		"provincia": "Brigthvale",
@@ -19,8 +19,8 @@
 		"Wins":"2, Altador Cup(I,IX)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/brightvale_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/BrightvaleShield.png",
-		"longitud": 655,
-		"Mlatitud": 376
+		"longitud": 1233,
+		"Mlatitud": 579
 	}, {
 		"nombre": "Darigan Citadel",
 		"provincia": "Darigan Citadel",
@@ -30,8 +30,8 @@
 		"Wins": "1, Altador Cup(II)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/darigancitadel_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/DariganCitadelShields.png",
-		"longitud": 727,
-		"latitud": 301
+		"longitud": 1353,
+		"latitud": 463
 	}, {
 		"nombre": "Faerieland",
 		"provincia": "Faerieland",
@@ -41,8 +41,8 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/faerieland_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/FaerilandShield.png",
-		"longitud": 610,
-		"latitud": 410
+		"longitud": 1156,
+		"latitud": 634
 	}, {
 		"nombre": "Haunted Woods",
 		"provincia": "Haunted Woods",
@@ -52,8 +52,8 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/hauntedwoods_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/HauntedWoodsShield.png",
-		"longitud": 493,
-		"latitud": 399
+		"longitud": 973,
+		"latitud": 615
 	}, {
 		"nombre": "Kiko Lake",
 		"provincia": "Kiko Lake",
@@ -63,8 +63,8 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/kikolake_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/KikoShield.png",
-		"longitud": 558,
-		"latitud": 324
+		"longitud": 1077,
+		"latitud": 501
 	}, {
 		"nombre": "Krawk Island",
 		"provincia": "Krawk Island",
@@ -74,8 +74,8 @@
 		"Wins": "1, Altador Cup(IV)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/krawkisland_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/KrawkIslandShields.png",
-		"longitud": 753,
-		"latitud": 532
+		"longitud": 1410,
+		"latitud": 828
 	}, {
 		"nombre": "Kreludor",
 		"provincia": "Kreludor",
@@ -85,8 +85,8 @@
 		"Wins": "1, Altador Cup(VII)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/kreludor_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/KreludorShield.png",
-		"longitud": 147,
-		"latitud": 208   
+		"longitud": 417,
+		"latitud": 330  
 	}, {
 		"nombre": "Lost Desert",
 		"provincia": "Lost Desert",
@@ -96,8 +96,8 @@
 		"Wins": "1, Altador Cup(V)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/lostdesert_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/LostDessertShield.png",
-		"longitud": 538,
-		"latitud": 482
+		"longitud": 1042,
+		"latitud": 754
 	}, {
 		"nombre": "Maraqua",
 		"provincia": "Maraqua",
@@ -107,8 +107,8 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/maraqua_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MaraquaShields.png",
-		"longitud": 842,
-		"latitud": 299
+		"longitud": 1539,
+		"latitud": 471
 	}, {
 		"nombre": "Meridell",
 		"provincia": "Meridell",
@@ -118,8 +118,8 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/meridell_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MeridellShield.png",
-		"longitud": 693,
-		"Mlatitud": 331
+		"longitud": 1296,
+		"Mlatitud": 511
 	}, {
 		"nombre": "Moltara",
 		"provincia": "Moltara",
@@ -129,8 +129,8 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/moltara_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MoltaraShield.png",
-		"longitud": 165,
-		"latitud": 380
+		"longitud": 441,
+		"latitud": 586
 	}, {
 		"nombre": "Mystery Island",
 		"provincia": "Mystery Island",
@@ -140,8 +140,8 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/mysteryisland_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/MisteryIslandShields.png",
-		"longitud": 837,
-		"latitud": 460
+		"longitud": 1530,
+		"latitud": 712
 	}, {
 		"nombre": "Roo Island",
 		"provincia": "Roo Island",
@@ -151,8 +151,8 @@
 		"Wins": "1, Altador Cup(III)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/rooisland_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/RooIslandShields.png",
-		"longitud": 633,
-		"latitud": 281
+		"longitud": 1206,
+		"latitud": 436
 	}, {
 		"nombre": "Shenkuu",
 		"provincia": "Shenkuu",
@@ -162,8 +162,8 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/shenkuu_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/ShenkuuShield.png",
-		"longitud": 373,
-		"latitud": 283
+		"longitud": 780,
+		"latitud": 439
 	}, {
 		"nombre": "Terror Mountain",
 		"provincia": "Terror Mountain",
@@ -173,8 +173,8 @@
 		"Wins": "---",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/terrormountain_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/TerrorMountainShields.png",
-		"longitud": 494,
-		"latitud": 194
+		"longitud": 972,
+		"latitud": 306
 	}, {
 		"nombre": "Tyrannia",
 		"provincia": "Tyrannia",
@@ -184,8 +184,8 @@
 		"Wins": "1, Altador Cup(VIII)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/tyrannia_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/TyranniaShield.png",
-		"longitud": 701,
-		"latitud": 218
+		"longitud": 1312,
+		"latitud": 346
 	}, {
 		"nombre": "Virtupets",
 		"provincia": "Virtupets Space Station",
@@ -195,8 +195,8 @@
 		"Wins": "1, Altador Cup(VI)",
 		"TeamImage": "https://www.openprocessing.org/sketch/421012/files/virtupets_group.gif",
 		"ShieldImage": "https://www.openprocessing.org/sketch/421012/files/VirtupetsShield.png",
-		"longitud": 859,
-		"latitud": 224
+		"longitud": 1563,
+		"latitud": 352
 }, {
 		"nombre": "Mapa Del Mundo De Neopia",
 		"provincia": "Neopets.com",
@@ -206,8 +206,8 @@
 		"Wins": "",
 		"TeamImage": "",
 		"ShieldImage": "",
-		"longitud": ,
-		"latitud": 
+		"longitud":1170 ,
+		"latitud": 84
 }, {
 		"nombre": "Compass",
 		"provincia": "Compass",
@@ -217,7 +217,7 @@
 		"Wins": "1",
 		"TeamImage": "",
 		"ShieldImage": "",
-		"longitud": 701,
-		"latitud": 218
+		"longitud": 1515,
+		"latitud": 846
 	}]
 }
